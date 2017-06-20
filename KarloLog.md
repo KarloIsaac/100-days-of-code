@@ -8,7 +8,7 @@
 
 
 ### Day 1. 20 June 2017.
-**Today's Progress:** Could barely add a description capability in the Ingredietn object, could not make my mind about a Ingredient catalog.
+**Today's Progress:** Could barely add a description capability in the Ingredietn object, could not make my mind about an Ingredient catalog.
 
 **Thoughts:** I couldn't concentrate as much as a would have liked.
 
