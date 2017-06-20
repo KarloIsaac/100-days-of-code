@@ -5,3 +5,11 @@
 **Thoughts:** I am startin in a period where I'm releasing an update to my traceability project at work so I'm very busy but if I don't start now there will always be excuses.
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 1. 20 June 2017.
+**Today's Progress:** Could barely add a description capability in the Ingredietn object, could not make my mind about a Ingredient catalog.
+
+**Thoughts:** I couldn't concentrate as much as a would have liked.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
