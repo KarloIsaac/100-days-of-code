@@ -13,3 +13,11 @@
 **Thoughts:** I couldn't concentrate as much as a would have liked.
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 2. 21 June 2017.
+**Today's Progress:** Removed the test meals source. Started studying JavaFX because I plan to build my GUI with this API
+
+**Thoughts:** Could not code much, most of my time went on plannig and styding.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
