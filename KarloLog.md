@@ -29,3 +29,11 @@
 **Thoughts:** Still not coding much, getting a litte frustrated.
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 4. 23 June 2017.
+**Today's Progress:** Created a recipe ingredient adder view
+
+**Thoughts:** Must spend more time in actual coding and less reading the JavaFX documentation.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
