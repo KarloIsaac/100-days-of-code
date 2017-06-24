@@ -37,3 +37,12 @@
 **Thoughts:** Must spend more time in actual coding and less reading the JavaFX documentation.
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 5. 24 June 2017.
+**Today's Progress:** Adjusted the pane for adding ingredients, added a new scroll and prepared a ingredients grid
+
+**Thoughts:** I keep in mind building the simplest viable project, don't want to get lost in the details.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
