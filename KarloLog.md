@@ -46,3 +46,10 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 6. 25 June 2017.
+**Today's Progress:** Created a function to aggregate ingredients register rows, changed how these rows are included in the GridPane
+
+**Thoughts:** Keep struggling not to get lost trying to make a perfect GUI, I want to focus in something functional giving priority to the logic of the program.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
