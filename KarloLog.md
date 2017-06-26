@@ -53,3 +53,11 @@
 **Thoughts:** Keep struggling not to get lost trying to make a perfect GUI, I want to focus in something functional giving priority to the logic of the program.
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 7. 26 June 2017.
+**Today's Progress:** Basic recipe register view done.
+
+**Thoughts:** the view ain't nice but does the job, I don't wanna spend much time making it nice (for now).
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
