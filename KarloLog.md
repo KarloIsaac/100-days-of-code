@@ -63,10 +63,18 @@
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
 
-### Day 9. 28 June 2017.
+### Day 9. 27 June 2017.
 **Today's Progress:** Changed the add button to each new ingredient rows, prepared a consumer to inform of the row requesting save.
 
 **Thoughts:** Having second thoughts abour using JavaFX, finding MigLayout much more versatile and easy to use, again considering to to WebView to build the GUI but don't want to be absorbed on building the GUI, I want to focus on the logic.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 10. 28 June 2017.
+**Today's Progress:** Separated the logic of the Ingredient row view, all is now in a sepatated controller, started working on the delete Ingredient row capability.
+
+**Thoughts:** I don't think I like JavaFX, not very versatile, maybe I need to learn a little bit more.
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
