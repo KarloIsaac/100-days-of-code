@@ -78,3 +78,13 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 11. 29 June 2017.
+**Today's Progress:** Prepared the Recipe adder to delete ingredients rows.
+
+**Thoughts:** Spend much time studying the basic concepts of XML, I believe tomorrow I'll be ready to prepare some recipes in this format.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+
