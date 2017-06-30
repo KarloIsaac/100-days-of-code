@@ -87,4 +87,11 @@
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
 
+### Day 12. 30 June 2017.
+**Today's Progress:** Defined and finished the structure of one recipe in my XML format.
+
+**Thoughts:** Thinking and analyzing the XML structure took me all the time.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
 
