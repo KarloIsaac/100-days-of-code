@@ -95,3 +95,9 @@
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
 
+### Day 13. 1 July 2017.
+**Today's Progress:** Prepared the directories for the jar to find the recipes directory and at the same time I can work from eclipse with this directories structure.
+
+**Thoughts:** Too much XML studying, almost no new code.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
