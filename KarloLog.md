@@ -101,3 +101,11 @@
 **Thoughts:** Too much XML studying, almost no new code.
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 14. 2 July 2017.
+**Today's Progress:** Created a centrilized class to access the xml recipe files, started changing the recipe registry view to also include preparation time and foot notes.
+
+**Thoughts:** Struggled trying no to think too much and coding more, even if later I need to change it.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
