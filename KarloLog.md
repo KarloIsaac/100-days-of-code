@@ -109,3 +109,11 @@
 **Thoughts:** Struggled trying no to think too much and coding more, even if later I need to change it.
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 15. 3 July 2017.
+**Today's Progress:** Gave the Ingredients object the capability to exist without needing a quantity set.
+
+**Thoughts:** The flag ingredients are important for the time the recipe says "add to the taste".
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
