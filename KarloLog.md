@@ -117,3 +117,12 @@
 **Thoughts:** The flag ingredients are important for the time the recipe says "add to the taste".
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 16. 4 July 2017.
+**Today's Progress:** Started building the diet design form.
+
+**Thoughts:** I found a MigPane, yayyy!!, I hope this will help me to design faster.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
