@@ -126,3 +126,11 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 17. 5 July 2017.
+**Today's Progress:** Working on diet planner gui, preparing the embedding structure in wich the meals w'll be distributed.
+
+**Thoughts:** Trying not to get trapped planning and forcing myself to write code, even if afterwards I need to change it.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
