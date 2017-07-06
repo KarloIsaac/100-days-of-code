@@ -134,3 +134,12 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 18. 6 July 2017.
+**Today's Progress:** Arranged the structure of my classes to conform to the MVC model.
+
+**Thoughts:** Doing my MVC differently, let's see how this works.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
