@@ -143,3 +143,11 @@
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
 
+### Day 19. 7 July 2017.
+**Today's Progress:** Prepared some controllers for the view and the model.
+
+**Thoughts:** I'm very tired.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
