@@ -151,3 +151,9 @@
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
 
+### Day 20. 8 July 2017.
+**Today's Progress:** Went back and forth trying to figure out the best way to connect model and view.
+
+**Thoughts:** Spend much time thinking and still don't figure out a general and effective way to connect model and view, but I think I'm getting close.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
