@@ -157,3 +157,11 @@
 **Thoughts:** Spend much time thinking and still don't figure out a general and effective way to connect model and view, but I think I'm getting close.
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 21. 9 July 2017.
+**Today's Progress:** The model now communicate appropriately with the view to add day block.
+
+**Thoughts:** .
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
