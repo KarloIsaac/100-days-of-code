@@ -165,3 +165,11 @@
 **Thoughts:** .
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 22. 10 July 2017.
+**Today's Progress:** The day model causes the day view to add meals blocks.
+
+**Thoughts:** .
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
