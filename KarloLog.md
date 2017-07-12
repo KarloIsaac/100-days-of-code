@@ -173,3 +173,12 @@
 **Thoughts:** .
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 23. 11 July 2017.
+**Today's Progress:** added controllers for person and foods blocks to the api.
+
+**Thoughts:** Getting bored with thid project. maybe I should work in something else.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
