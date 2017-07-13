@@ -182,3 +182,11 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 24. 12 July 2017.
+**Today's Progress:** Trying to decide how to estructure my data.
+
+**Thoughts:** struggled trying to remain awake.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
