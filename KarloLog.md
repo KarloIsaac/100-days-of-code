@@ -198,3 +198,11 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 26. 15 July 2017.
+**Today's Progress:** Created capability of meal and day blocks to order name update from view.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
