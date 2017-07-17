@@ -206,3 +206,12 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 27. 16 July 2017.
+**Today's Progress:** Started working on FreeCodeCamp tribute page
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
