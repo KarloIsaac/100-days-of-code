@@ -215,3 +215,12 @@
 **Link to work:** 
 
 
+### Day 28. 17 July 2017.
+**Today's Progress:** Eliminated duplication in my contrpl blocks, since they were doing very similar tasks now all descend from a common parent
+
+**Thoughts:** No new functionality, just organized my code
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+
