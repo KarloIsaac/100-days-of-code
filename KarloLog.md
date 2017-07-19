@@ -223,4 +223,18 @@
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
 
+### Day 29. 18 July 2017.
+**Today's Progress:** Tried to generalize creation of blocks, not very succesful
+
+**Thoughts:**
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 30. 19 July 2017.
+**Today's Progress:** Tried to create a common ancestor for my blocks generator but removing duplication seems very expensive
+
+**Thoughts:**
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
