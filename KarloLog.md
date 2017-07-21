@@ -238,3 +238,11 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 31. 20 July 2017.
+**Today's Progress:** Took out the blocks model and view wiring capability into a new class
+
+**Thoughts:**
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
