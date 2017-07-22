@@ -246,3 +246,10 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 32. 21 July 2017.
+**Today's Progress:** Took out the blocks model and view mapper
+
+**Thoughts:**
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
