@@ -253,3 +253,11 @@
 **Thoughts:**
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 33. 22 July 2017.
+**Today's Progress:** Not much, could not decide how to generalize functionality
+
+**Thoughts:** Very frustrated, stuck trying to remove duplication, it seems too costly
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
