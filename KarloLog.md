@@ -261,3 +261,11 @@
 **Thoughts:** Very frustrated, stuck trying to remove duplication, it seems too costly
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 34. 22 July 2017.
+**Today's Progress:** Started chanching the structure to avoid having maps to reference the GroupsViews
+
+**Thoughts:** I have spent a great deal of time tryin to "appropriately" wire model and view even though I really didn't want to focus on the GUI
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
