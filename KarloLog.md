@@ -269,3 +269,12 @@
 **Thoughts:** I have spent a great deal of time tryin to "appropriately" wire model and view even though I really didn't want to focus on the GUI
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 35. 24 July 2017.
+**Today's Progress:** Continuing refactoring not to keep references to view elements but wiring to controllers and manipulating view from them
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
