@@ -278,3 +278,11 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 36. 25 July 2017.
+**Today's Progress:** Abstracting the controller capability to wire the control block an the corresponding view, now it is only available for the DayBlock.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
