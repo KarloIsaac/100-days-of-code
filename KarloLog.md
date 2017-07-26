@@ -286,3 +286,11 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 37. 26 July 2017.
+**Today's Progress:** Now I have functions that generate wired group views for the DayBlock and the MealBlock.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
