@@ -294,3 +294,11 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 38. 27 July 2017.
+**Today's Progress:** Refactored my code generalzing the wired blocks creator in order for it to create any kind of nodes.
+
+**Thoughts:** I had to build a class just to realize tha functionality was alrready some where else, but I guess that is better than just staring at the code trying to figure out what to do next.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
