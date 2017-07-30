@@ -302,3 +302,19 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 39. 28 July 2017.
+**Today's Progress:** Prepared the PersonBlockView and the FoodPanelView, also started working on the add block capability for the PersonBlock's.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 40. 29 July 2017.
+**Today's Progress:** Started working on the scheme to add FoodBlock's from the PersonBlock and how to retrieve the food blocks
+
+**Thoughts:** I find it hard to describe my progress, when I see what I did there are only very few lines of new code, most of my time wwas consumed thinking about the desingn.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
