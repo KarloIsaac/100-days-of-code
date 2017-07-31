@@ -326,3 +326,11 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 42. 31 July 2017.
+**Today's Progress:** Adjusted the height of the food adder in the PersonBlock view, started structuring the way in which the program will have access to the recipes xml files.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
