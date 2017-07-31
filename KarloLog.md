@@ -318,3 +318,11 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 41. 30 July 2017.
+**Today's Progress:** Finished the capability to add person blocks, although them have a limited capability to add useful food blocks
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
