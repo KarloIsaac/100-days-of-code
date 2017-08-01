@@ -334,3 +334,11 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 43. 01 August 2017.
+**Today's Progress:** Preparing the recipes reader which will read recipes in XML format and will create a map of the recipe name and the file which contains the data.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
