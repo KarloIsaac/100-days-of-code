@@ -358,3 +358,11 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 46. 04 August 2017.
+**Today's Progress:** Now I can list the name of all my recipes in the recipes files directory.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
