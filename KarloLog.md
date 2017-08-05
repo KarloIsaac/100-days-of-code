@@ -366,3 +366,12 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 47. 05 August 2017.
+**Today's Progress:** Changed the strategy to read all recipe names an files path through a index file insteas of reading all the files in the directory up front.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
