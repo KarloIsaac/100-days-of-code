@@ -375,3 +375,9 @@
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
 
+### Day 48. 06 August 2017.
+**Today's Progress:** Tried some approaches to map the recipe name to recipe file map from the xml index file.
+
+**Thoughts:** Frustrated, tought of many approaches but couldn't made up my mind.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
