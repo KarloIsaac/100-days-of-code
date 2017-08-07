@@ -381,3 +381,11 @@
 **Thoughts:** Frustrated, tought of many approaches but couldn't made up my mind.
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 49. 07 August 2017.
+**Today's Progress:** Created some test cases for my XML events processor.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
