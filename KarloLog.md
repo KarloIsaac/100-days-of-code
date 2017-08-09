@@ -397,3 +397,12 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 51. 09 August 2017.
+**Today's Progress:** Finally able to create a map from the recipe name to the xml file.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
