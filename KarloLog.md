@@ -415,3 +415,9 @@
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
 
+### Day 53. 11 August 2017.
+**Today's Progress:** Started dessigning the parsing methodology to load the meal data from its xml file.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
