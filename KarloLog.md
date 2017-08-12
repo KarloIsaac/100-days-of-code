@@ -421,3 +421,11 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 54. 12 August 2017.
+**Today's Progress:** Worked on a different project, I've been trying to solve an algorithm to find the distances between gas stations.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/AlgorithmProblems](https://github.com/KarloIsaac/AlgorithmProblems.git)
