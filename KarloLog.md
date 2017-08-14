@@ -429,3 +429,12 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/AlgorithmProblems](https://github.com/KarloIsaac/AlgorithmProblems.git)
+
+
+### Day 55. 14 August 2017.
+**Today's Progress:** Sketching the structure of the recipe reader using a recipe events reader, the challenging part is that the ingredient elements contain children, despite the rest of the recipe elements..
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
