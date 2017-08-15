@@ -438,3 +438,11 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 56. 15 August 2017.
+**Today's Progress:** The RecipeEventsReader is now ready to process parent elements processing, it also should not have problems redirecting embedded elements events to the parent handler.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
