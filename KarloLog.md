@@ -446,3 +446,10 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 57. 16 August 2017.
+**Today's Progress:** I'm able to read (as strings) the name, sevings and calories of the recipe file.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
