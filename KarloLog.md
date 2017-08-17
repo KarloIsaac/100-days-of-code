@@ -453,3 +453,11 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 58. 17 August 2017.
+**Today's Progress:** Started working on my portfolio page for the FreeCodeCamp program.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
