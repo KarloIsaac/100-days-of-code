@@ -461,3 +461,11 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
+
+
+### Day 59. 18 August 2017.
+**Today's Progress:** "Added a texture to the body, adjusted sizes of body, root, div and html elements, started working with pseudoclasses for the buttons and tested a foreground and background colors combinations for said buttons.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
