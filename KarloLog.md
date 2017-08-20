@@ -477,3 +477,12 @@
 **Thoughts:** A seizable portion of the time went on planning how to consume the XML events.
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 61. 20 August 2017.
+**Today's Progress:** Started delivering data to the ingredients parser but it is not working right and just the portion of one ingredient was saved.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
