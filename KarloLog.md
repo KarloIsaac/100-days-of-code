@@ -469,3 +469,11 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
+
+
+### Day 60. 19 August 2017.
+**Today's Progress:** Prepared an ingredient parser object, created an ingredient parsed data object.
+
+**Thoughts:** A seizable portion of the time went on planning how to consume the XML events.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
