@@ -486,3 +486,10 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 62. 21 August 2017.
+**Today's Progress:** Now I can parse all the ingredients information.
+
+**Thoughts:** I'll try to refactor the meal parser
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
