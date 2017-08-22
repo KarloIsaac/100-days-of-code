@@ -493,3 +493,11 @@
 **Thoughts:** I'll try to refactor the meal parser
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 63. 22 August 2017.
+**Today's Progress:** Now I can parse the recipe directions, the footnotes and did small refactoring in the general parser.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
