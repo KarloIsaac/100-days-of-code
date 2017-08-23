@@ -501,3 +501,12 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 64. 23 August 2017.
+**Today's Progress:** I tought I was inspired to solve this algorithm easily, I was wrong, at least I practiced Python.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/AlgorithmProblems](https://github.com/KarloIsaac/AlgorithmProblems.git)
+
