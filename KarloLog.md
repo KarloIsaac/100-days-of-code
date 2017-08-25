@@ -517,3 +517,12 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 66. 25 August 2017.
+**Today's Progress:** Created TimesParser object with its sections to save the differen time period types to prepare the recipe.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
