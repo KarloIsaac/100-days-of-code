@@ -533,3 +533,11 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 68. 27 August 2017.
+**Today's Progress:** Prepared the XmlRecipeFileParser to yield two objects from the recipe file, one of ParsedMealData And the other for ComplementaryData.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
