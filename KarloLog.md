@@ -541,3 +541,11 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 69. 28 August 2017.
+**Today's Progress:** Changed the names of the unit types categories.
+
+**Thoughts:** Almost all my time went on planning
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
