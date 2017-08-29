@@ -549,3 +549,11 @@
 **Thoughts:** Almost all my time went on planning
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 70. 29 August 2017.
+**Today's Progress:** Started creating some teests for the ingredient data translator, added the getName method to the Ingredient object
+
+**Thoughts:** to TDD or not to TDD, that is the question
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
