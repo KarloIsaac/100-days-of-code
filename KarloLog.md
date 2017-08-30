@@ -557,3 +557,12 @@
 **Thoughts:** to TDD or not to TDD, that is the question
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 71. 30 August 2017.
+**Today's Progress:** Finished the ingredient data translator.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
