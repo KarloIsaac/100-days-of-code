@@ -566,3 +566,11 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 72. 31 August 2017.
+**Today's Progress:** Added some test cases to the Ingredients translator, now it throws exceptions when the unit or the magnitude are invalid. Statarted building the Meals translator.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
