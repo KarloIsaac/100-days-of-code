@@ -574,3 +574,12 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 73. 01 September 2017.
+**Today's Progress:** The meal translator is able to translate all the parsed information but currently only translates the first ingredient data parsed.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
