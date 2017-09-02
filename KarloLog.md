@@ -583,3 +583,11 @@
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
 
+### Day 74. 02 September 2017.
+**Today's Progress:** Adjusted some Ingredient objects tests thaht failed because I changed the name of the units and the data were returned alphabetically. Added the capability to assess if the calories value is numeric in the MealTranslator object.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
