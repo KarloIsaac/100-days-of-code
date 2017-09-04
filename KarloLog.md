@@ -599,3 +599,11 @@
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
 
+### Day 76. 04 September 2017.
+**Today's Progress:** The meal data translator is ready, started working on the Meal objects server.
+
+**Thoughts:** I think for the Meal info server I won't use TDD, it'd be too costly and there are portions that require to access the file system.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
