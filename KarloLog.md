@@ -607,3 +607,11 @@
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
 
+### Day 77. 05 September 2017.
+**Today's Progress:** The recipe server is ready to retrieve a Meal object based on the provided recipe name.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
