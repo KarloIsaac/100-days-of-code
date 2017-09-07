@@ -615,3 +615,18 @@
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
 
+### Day 78. 06 September 2017.
+**Today's Progress:** Tested the meal objects server and killed some bugs.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 79. 07 September 2017.
+**Today's Progress:** Fixed bugs in the Meal translator tests, implemented the toString method on the ComplementaryInfo object.
+
+**Thoughts:** Spent most of my time planning but I this it was productive, using mind maps is very useful.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
