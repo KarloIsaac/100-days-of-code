@@ -630,3 +630,12 @@
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
+
+### Day 80. 08 September 2017.
+**Today's Progress:** Created MealDisplayController and MealDisplayPool to represent the actions of the view although this classes belong to the core functionality.
+
+**Thoughts:** Spent a great deal of time planning, I like to plann.
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
