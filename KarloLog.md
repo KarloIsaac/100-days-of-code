@@ -639,3 +639,11 @@
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
 
 
+### Day 81. 10 September 2017.
+**Today's Progress:** Worked on the MealDisplayInterface (former MealDisplayController) to manage the portion alteration requests directed to the Meal objects, started working on these events informing system.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
