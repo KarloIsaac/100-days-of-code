@@ -661,3 +661,11 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 84. 13 September 2017.
+**Today's Progress:** Working on PoolItemMealView, connecting MealDisplayPool and RecipesPoolView to synchronize MealDisplayInterface addition.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
