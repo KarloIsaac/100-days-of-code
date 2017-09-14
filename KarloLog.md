@@ -669,3 +669,11 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
+
+
+### Day 85. 14 September 2017.
+**Today's Progress:** Formatting the RecipesPoolView and experimenting with the css.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/DietControlProject](https://github.com/KarloIsaac/DietControlProject.git)
