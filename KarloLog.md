@@ -688,6 +688,14 @@
 
 
 ### Day 87. 16 September 2017.
+**Today's Progress:** changed the main menu to horizontal position.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
+
+
+### Day 88. 17 September 2017.
 **Today's Progress:** Experimenting CSS laying out.
 
 **Thoughts:** 
