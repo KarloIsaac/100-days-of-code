@@ -688,7 +688,7 @@
 
 
 ### Day 87. 16 September 2017.
-**Today's Progress:** Changed the main menu orientatio to horizontal.
+**Today's Progress:** Experimenting CSS laying out.
 
 **Thoughts:** 
 
