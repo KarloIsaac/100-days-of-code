@@ -701,3 +701,11 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
+
+
+### Day 89. 18 September 2017.
+**Today's Progress:** Set the capability to navigate to different sections of the page with a navigation menu.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
