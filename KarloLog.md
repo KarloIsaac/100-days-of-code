@@ -717,3 +717,12 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
+
+
+### Day 91. 20 September 2017.
+**Today's Progress:** Created division with hexagon appearence.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
+
