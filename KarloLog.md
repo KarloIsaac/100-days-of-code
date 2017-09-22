@@ -726,3 +726,10 @@
 
 **Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
 
+
+### Day 92. 21 September 2017.
+**Today's Progress:** Adjusted navigation buttons, experimented with different backgrounds.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
