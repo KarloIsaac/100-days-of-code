@@ -733,3 +733,12 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
+
+
+### Day 93. 22 September 2017.
+**Today's Progress:** Prepared headers for every section, changed the colors combinations and put a photo placeholder and a personal introduction.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
+
