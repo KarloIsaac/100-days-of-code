@@ -750,3 +750,10 @@
 
 **Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
 
+
+### Day 95. 24 September 2017.
+**Today's Progress:** Prepared icons with links to my social networks pages, also added a reach me section.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
