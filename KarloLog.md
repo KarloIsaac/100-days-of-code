@@ -742,3 +742,11 @@
 
 **Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
 
+
+### Day 94. 23 September 2017.
+**Today's Progress:** Added my personal introduction and aligned the personal image placeholder.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
+
