@@ -757,3 +757,11 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
+
+
+### Day 96. 25 September 2017.
+**Today's Progress:** Adjusted colors of fonts in paragraphs. Added form fields for clients to reach developer.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
