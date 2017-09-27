@@ -774,3 +774,11 @@
 
 **Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
 
+
+### Day 98. 27 September 2017.
+**Today's Progress:** Aligned the contact me form. Formatted the submit button. Added the 'Placeholder n' leyend to the hexagons.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
+
