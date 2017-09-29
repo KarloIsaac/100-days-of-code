@@ -790,3 +790,11 @@
 
 **Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
 
+
+### Day 100. 29 September 2017.
+**Today's Progress:** Finished submit button styling. Organized the CSS file.
+
+**Thoughts:** I feel rather disappointed. I didn't accomplish much in these 100 days.
+
+**Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio.git)
+
