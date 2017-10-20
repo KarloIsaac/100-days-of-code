@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code Round 1- Log
 ### Day 1. 19 June 2017.
 **Today's Progress:** Prepared the github repository.
 
