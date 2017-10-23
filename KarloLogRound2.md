@@ -19,3 +19,11 @@
 **Thoughts:** Very frustrated, advanced very little in one hour
 
 **Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio)
+
+### Day 4. 23 Oct 2017.
+**Today's Progress:** Added a gradient to the h2 elements. Removed the border of the section classes.
+
+**Thoughts:** Finished the first version of my Portfolio page. The dessign doesn't drive crazy of love but will do it for now.
+
+**Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio)
+
