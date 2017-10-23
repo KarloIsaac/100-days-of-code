@@ -12,3 +12,10 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio)
+
+### Day 3. 22 Oct 2017.
+**Today's Progress:** Adjusted the format of the link to the portfolio pages. Also adjusted the position of the link to the tribute page.
+
+**Thoughts:** Very frustrated, advanced very little in one hour
+
+**Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio)
