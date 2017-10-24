@@ -27,3 +27,10 @@
 
 **Link to work:** [KarloIsaac/PersonalPortfolio](https://github.com/KarloIsaac/PersonalPortfolio)
 
+### Day 5. 24 Oct 2017.
+**Today's Progress:** Working on the FreeCodeCamp program, about to start the Shopping List lesson of the Basic JavaScript trail.
+
+**Thoughts:** 
+
+**Link to work:** 
+
