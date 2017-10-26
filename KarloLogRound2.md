@@ -41,3 +41,10 @@
 
 **Link to work:** 
 
+### Day 7. 26 Oct 2017.
+**Today's Progress:** Working on the FreeCodeCamp program, about to start the "Accessing Nested Objects" lesson of the Basic JavaScript trail.
+
+**Thoughts:** Javascript properties seem like a very stupid way of "solving" the need for a dictionary.
+
+**Link to work:** 
+
