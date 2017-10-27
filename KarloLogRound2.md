@@ -48,3 +48,9 @@
 
 **Link to work:** 
 
+### Day 8. 27 Oct 2017.
+**Today's Progress:** Working on the FreeCodeCamp program, about to start the "Generate Random Whole Numbers within a Range" lesson of the Basic JavaScript trail.
+
+**Thoughts:** 
+
+**Link to work:** 
