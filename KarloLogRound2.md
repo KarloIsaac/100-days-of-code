@@ -54,3 +54,11 @@
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 9. 28 Oct 2017.
+**Today's Progress:** Working on the FreeCodeCamp program, about to start the "Filter Arrays with filter" lesson of the Object Oriented and Functional Programming trail.
+
+**Thoughts:** 
+
+**Link to work:** 
+
