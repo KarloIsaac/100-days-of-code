@@ -62,3 +62,10 @@
 
 **Link to work:** 
 
+### Day 10. 29 Oct 2017.
+**Today's Progress:** Working on the FreeCodeCamp program, about to start the "Title Case a Sentence" lesson of the Basic Algorithm Scripting trail.
+
+**Thoughts:** 
+
+**Link to work:** 
+
