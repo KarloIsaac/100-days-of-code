@@ -75,3 +75,10 @@
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 12. 31 Oct 2017.
+**Today's Progress:** Working on the FreeCodeCamp program, about to start the "Seek and Destroy" lesson of the Basic Algorithm Scripting trail.
+
+**Thoughts:** 
+
+**Link to work:** 
