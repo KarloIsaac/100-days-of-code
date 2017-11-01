@@ -81,4 +81,12 @@
 
 **Thoughts:** 
 
+**Link to work:**
+
+### Day 13. 1 Nov 2017.
+**Today's Progress:** Working on the FreeCodeCamp program, about to start the "Get JSON with the jQuery getJSON Method" lesson of the JSON APIs and Ajax trail.
+
+**Thoughts:** 
+
 **Link to work:** 
+
