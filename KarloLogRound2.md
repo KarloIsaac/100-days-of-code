@@ -90,11 +90,17 @@
 
 **Link to work:** 
 
-
 ### Day 14. 2 Nov 2017.
 **Today's Progress:** Working on the FreeCodeCamp program, about to start the "Build a Random Quote Machine" lesson of the Intermediate Front End Development Projects trail.
 
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 15. 3 Nov 2017.
+**Today's Progress:** Created the Random Quote Machine project, started studying how to retrieve quotes.
+
+**Thoughts:** A lot of study.
+
+**Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
 
