@@ -104,3 +104,9 @@
 
 **Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
 
+### Day 16. 4 Nov 2017.
+**Today's Progress:** Trying to retrive the data sent by the quote api but no success.
+
+**Thoughts:** Still a lot of study.
+
+**Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
