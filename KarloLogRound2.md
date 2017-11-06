@@ -110,3 +110,10 @@
 **Thoughts:** Still a lot of study.
 
 **Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
+
+### Day 17. 6 Nov 2017.
+**Today's Progress:** Still trying to get the response from the quote generating API.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
