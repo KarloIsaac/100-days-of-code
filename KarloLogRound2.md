@@ -117,3 +117,10 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
+
+### Day 18. 7 Nov 2017.
+**Today's Progress:** I managed to get response from a Chuck Norris jokes API and also from a quotes page via JSONP. In the former case I need to figure out how to repeatedly requests quotes.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
