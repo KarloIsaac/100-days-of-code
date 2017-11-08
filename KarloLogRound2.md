@@ -124,3 +124,11 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
+
+### Day 19. 8 Nov 2017.
+**Today's Progress:** Finally the quotes are rendered from the web http://forismatic.com/en/api/, each time I click in my button a new quote appears!.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
+
