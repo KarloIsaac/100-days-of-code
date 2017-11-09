@@ -132,3 +132,10 @@
 
 **Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
 
+### Day 20. 9 Nov 2017.
+**Today's Progress:** Now my page presents a random quote along with the author. Adjusted the request quote function in oreder not to leave accumulated scripts in the body of the page. Added the would-be twit button. Started to laying out componensts.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
+
