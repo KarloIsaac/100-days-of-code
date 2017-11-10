@@ -139,3 +139,9 @@
 
 **Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
 
+### Day 21. 10 Nov 2017.
+**Today's Progress:** Adjusted buttons size and alignment. Centered the panel. Added the reference to forismatic page. Set the fonts for the quote and the author. Surrounded the quote by quotation marks.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
