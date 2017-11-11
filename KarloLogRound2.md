@@ -145,3 +145,10 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
+
+### Day 22. 11 Nov 2017.
+**Today's Progress:** Trying to layout the components.
+
+**Thoughts:** Didn't progress
+
+**Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
