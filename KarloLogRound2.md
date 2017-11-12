@@ -152,3 +152,11 @@
 **Thoughts:** Didn't progress
 
 **Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
+
+### Day 23. 12 Nov 2017.
+**Today's Progress:** I think I'm done with the cosmethic part of the quotes machine.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
+
