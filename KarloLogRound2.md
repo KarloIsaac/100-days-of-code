@@ -160,3 +160,10 @@
 
 **Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
 
+### Day 24. 13 Nov 2017.
+**Today's Progress:** The Twitter button sends the quote info to the Twitter web intent. The request quote function is called on the onloand event of the window.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
+
