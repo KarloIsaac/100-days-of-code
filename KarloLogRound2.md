@@ -167,3 +167,10 @@
 
 **Link to work:** [KarloIsaac/RandomQuoteMachine](https://github.com/KarloIsaac/RandomQuoteMachine.git)
 
+### Day 25. 14 Nov 2017.
+**Today's Progress:** Started using the navigator.geolocation object and managed to obtain the latitude and longitude of my current location.
+
+**Thoughts:** The getCurrentPosition method is azynchronous
+
+**Link to work:** [KarloIsaac/WeatherApp](https://github.com/KarloIsaac/WeatherApp.git)
+
