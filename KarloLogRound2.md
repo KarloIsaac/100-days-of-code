@@ -174,3 +174,9 @@
 
 **Link to work:** [KarloIsaac/WeatherApp](https://github.com/KarloIsaac/WeatherApp.git)
 
+### Day 26. 15 Nov 2017.
+**Today's Progress:** The scripts can get the weather information, also the update weather function is called when the page is loaded.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/WeatherApp](https://github.com/KarloIsaac/WeatherApp.git)
