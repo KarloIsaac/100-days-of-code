@@ -180,3 +180,12 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/WeatherApp](https://github.com/KarloIsaac/WeatherApp.git)
+
+### Day 27. 16 Nov 2017.
+**Today's Progress:** Now the app also displays location, temperature (including minimum and maximum) and weather icon.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/WeatherApp](https://github.com/KarloIsaac/WeatherApp.git)
+
+
