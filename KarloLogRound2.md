@@ -188,4 +188,17 @@
 
 **Link to work:** [KarloIsaac/WeatherApp](https://github.com/KarloIsaac/WeatherApp.git)
 
+### Day 28. 17 Nov 2017.
+**Today's Progress:** Displayed the name of each section, created functions for conversion between celsius and fahrenheit, added buttons to convert the temperature scales.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/WeatherApp](https://github.com/KarloIsaac/WeatherApp.git)
+
+### Day 29. 18 Nov 2017.
+**Today's Progress:** The temperatures are converted between celsius and fahrenheit in the three temperature fields. Also adjusted the region request for it to work with the first item in the arrary returned by the google maps api.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/WeatherApp](https://github.com/KarloIsaac/WeatherApp.git)
 
