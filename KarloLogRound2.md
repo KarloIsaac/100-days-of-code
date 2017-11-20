@@ -202,3 +202,9 @@
 
 **Link to work:** [KarloIsaac/WeatherApp](https://github.com/KarloIsaac/WeatherApp.git)
 
+### Day 30. 20 Nov 2017.
+**Today's Progress:** Prepared the temperature tag to change depending on which scale is selected. Centered the elements horizontally. Started experimetning with background images.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/WeatherApp](https://github.com/KarloIsaac/WeatherApp.git)
