@@ -208,3 +208,11 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/WeatherApp](https://github.com/KarloIsaac/WeatherApp.git)
+
+### Day 31. 21 Nov 2017.
+**Today's Progress:** Finished styling, added backgroud images and colors, also preparted the temperature conversions functions to round to 2 decimals.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/WeatherApp](https://github.com/KarloIsaac/WeatherApp.git)
+
