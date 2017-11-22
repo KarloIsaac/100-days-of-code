@@ -216,3 +216,10 @@
 
 **Link to work:** [KarloIsaac/WeatherApp](https://github.com/KarloIsaac/WeatherApp.git)
 
+### Day 32. 22 Nov 2017.
+**Today's Progress:** Finished the weather app, adjusted the styles of the temperature scale change buttons. In the Wikipedia Viewer project: Added a button thath opens a random wikipedia article
+
+**Thoughts:** Started researching for the Wikipedia viewer project.
+
+**Link to work:** [WeatherApp on codepen](https://codepen.io/KarloIsaac/full/pdVjRv/); [KarloIsaac/WikipediaViewer](https://github.com/KarloIsaac/WikipediaViewer)
+
