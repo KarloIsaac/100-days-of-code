@@ -223,3 +223,10 @@
 
 **Link to work:** [WeatherApp on codepen](https://codepen.io/KarloIsaac/full/pdVjRv/); [KarloIsaac/WikipediaViewer](https://github.com/KarloIsaac/WikipediaViewer)
 
+### Day 33. 23 Nov 2017.
+**Today's Progress:** Could make a json request to the search api
+
+**Thoughts:**
+
+**Link to work:** [KarloIsaac/WikipediaViewer](https://github.com/KarloIsaac/WikipediaViewer)
+
