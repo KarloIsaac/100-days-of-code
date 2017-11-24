@@ -230,3 +230,9 @@
 
 **Link to work:** [KarloIsaac/WikipediaViewer](https://github.com/KarloIsaac/WikipediaViewer)
 
+### Day 34. 24 Nov 2017.
+**Today's Progress:** Added a function to process the pages date array result of the returned json object
+
+**Thoughts:** Spent almost all my time studying the Wikipedia API.
+
+**Link to work:** [KarloIsaac/WikipediaViewer](https://github.com/KarloIsaac/WikipediaViewer)
