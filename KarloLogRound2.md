@@ -236,3 +236,10 @@
 **Thoughts:** Spent almost all my time studying the Wikipedia API.
 
 **Link to work:** [KarloIsaac/WikipediaViewer](https://github.com/KarloIsaac/WikipediaViewer)
+
+### Day 35. 25 Nov 2017.
+**Today's Progress:** The text results of the wikipedia api query now are displayed in the body of the page.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/WikipediaViewer](https://github.com/KarloIsaac/WikipediaViewer)
