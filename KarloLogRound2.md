@@ -243,3 +243,11 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/WikipediaViewer](https://github.com/KarloIsaac/WikipediaViewer)
+
+### Day 36. 26 Nov 2017.
+**Today's Progress:** Readied each result to open the link to the page it refers to. Added a search input and a little data validation in order not to look for empty results. Added images to the search and open link buttons. Adjusted the search button to empty the previous results before starting a new query.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/WikipediaViewer](https://github.com/KarloIsaac/WikipediaViewer)
+
