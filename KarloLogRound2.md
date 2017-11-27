@@ -251,3 +251,10 @@
 
 **Link to work:** [KarloIsaac/WikipediaViewer](https://github.com/KarloIsaac/WikipediaViewer)
 
+### Day 37. 27 Nov 2017.
+**Today's Progress:** Worked on styles: set colors for the results titles and the matching words in the search result. Set the space between search results. Put a search icon on the search button. Added a title for the page.
+
+**Thoughts:** This challenge is over.
+
+**Link to work:** [KarloIsaac/WikipediaViewer](https://github.com/KarloIsaac/WikipediaViewer)
+
