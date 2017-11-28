@@ -258,3 +258,9 @@
 
 **Link to work:** [KarloIsaac/WikipediaViewer](https://github.com/KarloIsaac/WikipediaViewer)
 
+### Day 38. 28 Nov 2017.
+**Today's Progress:** Created the .js and .html files and a .txt file with information to work on the project. Added a function to start testing the Twitch API Response.
+
+**Thoughts:** Spent the time studying the Twitch API.
+
+**Link to work:** [KarloIsaac/TwitchtvJsonApi](https://github.com/KarloIsaac/TwitchtvJsonApi.git)
