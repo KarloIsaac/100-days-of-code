@@ -264,3 +264,10 @@
 **Thoughts:** Spent the time studying the Twitch API.
 
 **Link to work:** [KarloIsaac/TwitchtvJsonApi](https://github.com/KarloIsaac/TwitchtvJsonApi.git)
+
+### Day 39. 29 Nov 2017.
+**Today's Progress:** Just refactored the code and created a retrieveJsonResponseForUser() function.
+
+**Thoughts:** Spent the time struggling with the CORS nightmare.
+
+**Link to work:** [KarloIsaac/TwitchtvJsonApi](https://github.com/KarloIsaac/TwitchtvJsonApi.git)
