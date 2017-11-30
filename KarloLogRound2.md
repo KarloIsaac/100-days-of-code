@@ -271,3 +271,10 @@
 **Thoughts:** Spent the time struggling with the CORS nightmare.
 
 **Link to work:** [KarloIsaac/TwitchtvJsonApi](https://github.com/KarloIsaac/TwitchtvJsonApi.git)
+
+### Day 40. 30 Nov 2017.
+**Today's Progress:** Created a function to request user information through JSONP. Started laying out the function that will translate the user info into html elements. Added an icon to represent when the user is offline.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/TwitchtvJsonApi](https://github.com/KarloIsaac/TwitchtvJsonApi.git)
