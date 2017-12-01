@@ -278,3 +278,11 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/TwitchtvJsonApi](https://github.com/KarloIsaac/TwitchtvJsonApi.git)
+
+### Day 41. 01 Dec 2017.
+**Today's Progress:** If the user is online, their channel icon is displayed, otherwise a default icon will. For every user an information panel is created, which contins the name of the user, wheter they are online or not.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/TwitchtvJsonApi](https://github.com/KarloIsaac/TwitchtvJsonApi.git)
+
