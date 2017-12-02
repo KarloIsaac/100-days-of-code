@@ -286,3 +286,10 @@
 
 **Link to work:** [KarloIsaac/TwitchtvJsonApi](https://github.com/KarloIsaac/TwitchtvJsonApi.git)
 
+### Day 42. 02 Dec 2017.
+**Today's Progress:** Displaying all the desired channel information, also able to open the channel link.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/TwitchtvJsonApi](https://github.com/KarloIsaac/TwitchtvJsonApi.git)
+
