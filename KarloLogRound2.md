@@ -293,3 +293,10 @@
 
 **Link to work:** [KarloIsaac/TwitchtvJsonApi](https://github.com/KarloIsaac/TwitchtvJsonApi.git)
 
+### Day 43. 03 Dec 2017.
+**Today's Progress:** Added page title, adjusted body width, set colors for odd row channels, set colors for category names, added the icon image for the channel anchor.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/TwitchtvJsonApi](https://github.com/KarloIsaac/TwitchtvJsonApi.git)
+
