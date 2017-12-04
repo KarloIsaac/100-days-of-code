@@ -300,3 +300,10 @@
 
 **Link to work:** [KarloIsaac/TwitchtvJsonApi](https://github.com/KarloIsaac/TwitchtvJsonApi.git)
 
+### Day 44. 04 Dec 2017.
+**Today's Progress:** Changed the scheme for the program to first build the channels pannels and later make the information request to the Twitch API in order to fill the data of the online channels.
+
+**Thoughts:** TwitchtvJsonApi challenge is over.
+
+**Link to work:** [TwitchtvJsonApi on codepen](https://codepen.io/KarloIsaac/pen/XzGegW)
+
