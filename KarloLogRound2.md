@@ -308,9 +308,15 @@
 **Link to work:** [TwitchtvJsonApi on codepen](https://codepen.io/KarloIsaac/pen/XzGegW)
 
 ### Day 45-50. 05 Dec 2017 - 10 Dec 2017.
-**Today's Progress:** Changed the scheme for the program to first build the channels pannels and later make the information request to the Twitch API in order to fill the data of the online channels.
+**Today's Progress:** Finished all the Intermediate Algorithm Scripting challenges from the Free Code Camp program..
 
-**Thoughts:** Finished all the Intermediate Algorithm Scripting challenges from the Free Code Camp program.
+**Thoughts:** 
 
 **Link to work:** 
 
+### Day 51-54. 11 Dec 2017 - 14 Dec 2017.
+**Today's Progress:** Finished all the Advanced Algorithm Scripting challenges from the Free Code Camp program.
+
+**Thoughts:** 
+
+**Link to work:** 
