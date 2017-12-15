@@ -320,3 +320,11 @@
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 55. 15 Dec 2017.
+**Today's Progress:** Added all the buttons for the calculator and laid them out.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
