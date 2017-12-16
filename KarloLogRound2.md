@@ -328,3 +328,9 @@
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
 
+### Day 56. 16 Dec 2017.
+**Today's Progress:** Working on the logic of the calculator. Created the functions to handle the mathematical operations and a map to retrieve them according to the operation to perform. I'm using an object to contain all the logic of the operations. With a variable I'm saving the last operation result in a varible in order to concatenate operations.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
