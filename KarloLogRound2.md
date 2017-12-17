@@ -334,3 +334,10 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 57. 17 Dec 2017.
+**Today's Progress:** Created a controller to translate the requests of the keyboard and process numbers and basic opeerations.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
