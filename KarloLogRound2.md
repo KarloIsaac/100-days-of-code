@@ -343,7 +343,7 @@
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
 
 ### Day 58. 18 Dec 2017.
-**Today's Progress:** Clicking the numbers and requesting the operatin result updates the main screen.
+**Today's Progress:** Clicking the numbers and requesting the operation result updates the main screen.
 
 **Thoughts:** 
 
