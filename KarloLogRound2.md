@@ -348,3 +348,10 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 59. 19 Dec 2017.
+**Today's Progress:** Created logic on the OperationsPerformer not to process arguments unless they are numeric, added the function isReadyToPerformOperation(). Linked a handler function on the clear button.
+
+**Thoughts:** Spent a considerable amount of time planning and refactoring.
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
