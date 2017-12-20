@@ -355,3 +355,11 @@
 **Thoughts:** Spent a considerable amount of time planning and refactoring.
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 60. 20 Dec 2017.
+**Today's Progress:** Now the mathematical operations can be concatenated.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
