@@ -369,3 +369,10 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 62. 22 Dec 2017.
+**Today's Progress:** Set the limit of the figures accumulator to 10 charachters. Created the FiguresToStringParser object to represent the figures calculated and present them in the display.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
