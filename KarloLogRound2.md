@@ -363,3 +363,9 @@
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
 
+### Day 61. 21 Dec 2017.
+**Today's Progress:** Readied the program to deal with multiple pressing of the decimal point, equals, zero and operations buttons.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
