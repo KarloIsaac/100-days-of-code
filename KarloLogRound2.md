@@ -376,3 +376,10 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 63. 23 Dec 2017.
+**Today's Progress:** Prepared the program to deal with the impresition of double values operations.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
