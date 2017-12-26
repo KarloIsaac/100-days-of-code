@@ -390,3 +390,10 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 65. 25 Dec 2017.
+**Today's Progress:** Managing 10^10 magnitud double figures imprecision of js.
+
+**Thoughts:** Much time testing the program
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
