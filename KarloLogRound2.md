@@ -397,3 +397,10 @@
 **Thoughts:** Much time testing the program
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 66. 26 Dec 2017.
+**Today's Progress:** Adjusting names and trying to describe the purposes of the FiguresToStringParser.
+
+**Thoughts:** Most of the time used trying to figure out how to structure the flow of the logic.
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
