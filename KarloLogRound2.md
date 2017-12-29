@@ -404,3 +404,17 @@
 **Thoughts:** Most of the time used trying to figure out how to structure the flow of the logic.
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 67. 28 Dec 2017.
+**Today's Progress:** Refactoring.
+
+**Thoughts:** Just planning.
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 68. 29 Dec 2017.
+**Today's Progress:** Refactoring.
+
+**Thoughts:** Just planning.
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
