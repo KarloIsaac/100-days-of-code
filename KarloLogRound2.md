@@ -418,3 +418,10 @@
 **Thoughts:** Just planning.
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 69. 30 Dec 2017.
+**Today's Progress:** The ScientificNotationParser only perform operation on number arguments other than zero and is prepared to ignore other types. The ScreenUpdater treats differently number arguments that requiere scientific notation trasformation from other kind of text to display.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
