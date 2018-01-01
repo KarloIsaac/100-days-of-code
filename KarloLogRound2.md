@@ -432,3 +432,10 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 71. 01 Jan 2018.
+**Today's Progress:** The OperationsPerformer can handle infinity numbers. The decimal point is present even in whole numbers.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
