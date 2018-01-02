@@ -439,3 +439,10 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 72. 02 Jan 2018.
+**Today's Progress:** Making tests to truncate the figures to 10 number characters.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
