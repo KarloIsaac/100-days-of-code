@@ -446,3 +446,10 @@
 **Thoughts:** 
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 73. 03 Jan 2018.
+**Today's Progress:** The 10 charachters adjustment is ready, also adjusted the presentation of the decimal point. Made some refactoring.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
