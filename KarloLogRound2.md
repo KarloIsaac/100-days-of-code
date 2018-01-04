@@ -452,4 +452,8 @@
 
 **Thoughts:** 
 
+### Day 74. 04 Jan 2018.
+**Today's Progress:** Testing some fonts for the display.
+
+**Thoughts:**
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
