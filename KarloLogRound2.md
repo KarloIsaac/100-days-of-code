@@ -457,3 +457,9 @@
 
 **Thoughts:**
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 75. 05 Jan 2018.
+**Today's Progress:** Experimenting with some color for the display.
+
+**Thoughts:**
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
