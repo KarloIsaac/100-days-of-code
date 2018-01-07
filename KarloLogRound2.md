@@ -452,14 +452,25 @@
 
 **Thoughts:** 
 
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
 ### Day 74. 04 Jan 2018.
 **Today's Progress:** Testing some fonts for the display.
 
 **Thoughts:**
+
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
 
 ### Day 75. 05 Jan 2018.
 **Today's Progress:** Experimenting with some color for the display.
 
 **Thoughts:**
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 76. 06 Jan 2018.
+**Today's Progress:** Preparing image files for the main display numbers.
+
+**Thoughts:**
+
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
