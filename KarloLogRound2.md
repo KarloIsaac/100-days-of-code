@@ -474,3 +474,10 @@
 **Thoughts:**
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 77. 07 Jan 2018.
+**Today's Progress:** The ScreenUpdater displays the images corresponding to the digits characters.
+
+**Thoughts:**
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
