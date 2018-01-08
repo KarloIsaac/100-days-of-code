@@ -481,3 +481,10 @@
 **Thoughts:**
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 78. 08 Jan 2018.
+**Today's Progress:** Created two objects to update the display, one for the main display and one for the scientific notation display. Created the characters images for the exponentials in the scientific notation.
+
+**Thoughts:**
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
