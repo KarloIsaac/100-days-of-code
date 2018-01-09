@@ -488,3 +488,10 @@
 **Thoughts:**
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 79. 09 Jan 2018.
+**Today's Progress:** Adjusted the font of the base 10 display. Prepared the scientific notation display to show a disabled state color when it is not needed.
+
+**Thoughts:**
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
