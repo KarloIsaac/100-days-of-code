@@ -495,3 +495,10 @@
 **Thoughts:**
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 80. 10 Jan 2018.
+**Today's Progress:** The displays show a default image for the empty spaces that could be filled. Ordered the css file.
+
+**Thoughts:**
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
