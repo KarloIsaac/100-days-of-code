@@ -502,3 +502,11 @@
 **Thoughts:**
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
+### Day 81 11 Jan 2018.
+**Today's Progress:** Laid out the button in the grid, setting their width, height, space between them and general alignment. Rounded the corners of the buttons and frames. Started testing different colors for the buttons and removed the selected outline from them.
+
+**Thoughts:**
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
