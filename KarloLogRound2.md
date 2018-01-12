@@ -510,3 +510,10 @@
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
 
+### Day 82 12 Jan 2018.
+**Today's Progress:** Adjusted the fonts of the buttons and gave them a crystal look.
+
+**Thoughts:**
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
