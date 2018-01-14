@@ -524,3 +524,10 @@
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
 
+### Day 84. 14 Jan 2018.
+**Today's Progress:** .
+
+**Thoughts:** Experimented with canvas, it was intersting but an overkill for what I want, discarded all changes :/
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
