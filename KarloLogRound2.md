@@ -531,3 +531,10 @@
 
 **Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
 
+### Day 85. 15 Jan 2018.
+**Today's Progress:** Added a background image and gradients and stylized some borders.
+
+**Thoughts:** 
+
+**Link to work:** [KarloIsaac/JavascriptCalculator](https://github.com/KarloIsaac/JavascriptCalculator.git)
+
